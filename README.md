@@ -20,13 +20,6 @@ Built with React for a smooth and efficient experience.
 
 ---
 
-## 📸 App Preview
-
-![Password Generator Screenshot](./screenshot.png)  
-*(Add a screenshot or GIF of your app in action here)*
-
----
-
 ## 🚀 Getting Started
 
 Follow these steps to run the app locally on your system:
